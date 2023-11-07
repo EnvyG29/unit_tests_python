@@ -1,3 +1,5 @@
 /.idea/*.xml
 /.idea/inspectionProfiles/*.xml
 
+/.idea/unit_tests_python.iml
+/htmlcov/

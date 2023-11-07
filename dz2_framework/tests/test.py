@@ -1,9 +1,9 @@
 import unittest
 from parameterized import parameterized
 
-from ..Vehicle.Vehicle import Vehicle
-from ..Vehicle.Car import Car
-from ..Vehicle.Motorcycle import Motorcycle
+from dz2_framework.Vehicle.Vehicle import Vehicle
+from dz2_framework.Vehicle.Car import Car
+from dz2_framework.Vehicle.Motorcycle import Motorcycle
 
 
 class MyTestCase(unittest.TestCase):
