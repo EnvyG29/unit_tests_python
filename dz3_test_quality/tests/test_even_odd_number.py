@@ -1,6 +1,6 @@
 from dz3_test_quality.task_one.even_odd_number import even_odd_number
 
-from unittest import TestCase, main
+from unittest import TestCase
 
 
 class EvenOddNumberTest(TestCase):
