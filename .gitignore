@@ -3,3 +3,4 @@
 
 /.idea/unit_tests_python.iml
 /htmlcov/
+.coverage
